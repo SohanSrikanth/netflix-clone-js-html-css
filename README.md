@@ -11,3 +11,6 @@ A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepag
 # NOTE
 Can't Deploy Webpage as it is detected as a "Phishing Site" and blocked by Chrome.
 Try downloading the source code and deploy it on VS Code or Atom.
+
+
+https://sohansrikanth.github.io/netflix-clone-js-html-css/
